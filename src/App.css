@@ -1,0 +1,42 @@
+.select{
+    width:100%;
+    height:40px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+.List-container{
+    width:100%;
+    display:flex;
+    margin:0 30px;
+}
+.list{
+    display:flex;
+}
+.title{
+    width: 200px;
+}
+.search-bar{
+    width: 200px;
+    margin-left: 700px;
+}
+.black-line{
+    width: 1080px;
+    height:2px;
+    background:rgb(49, 49, 49);
+    margin: 15px;
+}
+.app {
+    padding: 30px;
+  }
+
+  .todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+  }
+
+  .create{
+      margin: 10px;
+
+  }
